@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>OUR COLLECTION</title>
+</head>
+<body>
+    <h1>OUR COLLECTION</h1>
+
+    <!-- Gambar-gambar di bagian atas -->
+    <div class="produk-container">
+        <img src="https://img.id.my-best.com/product_images/9f8c06069e97458943175f7785aa9640.png?ixlib=rails-4.3.1&q=45&lossless=0&w=160&h=160&fit=clip&s=1f91cd8854640edf4ee0552168b76e05" alt="Produk 1">
+        <p>Deskripsi produk 1.</p>
+
+        <img src="https://i0.wp.com/www.footstepfootwear.com/wp-content/uploads/2021/11/Fonte-White-1.jpg?fit=1080%2C1080&ssl=1" alt="Produk 2">
+        <p>Deskripsi produk 2.</p>
+
+        <img src="https://storage.googleapis.com/hijup-production-sg-magazine/2023/01/1f0d6b41-model-celana-panjang-wanita-kekinian.jpeg" alt="Produk 3">
+        <p>Deskripsi produk 3.</p>
+    </div>
+
+    <!-- Gambar-gambar di bagian bawah -->
+    <div class="produk-container">
+        <img src="URL_GAMBAR_PROD_4" alt="Produk 4">
+        <p>Deskripsi produk 4.</p>
+
+        <img src="URL_GAMBAR_PROD_5" alt="Produk 5">
+        <p>Deskripsi produk 5.</p>
+
+        <img src="URL_GAMBAR_PROD_6" alt="Produk 6">
+        <p>Deskripsi produk 6.</p>
+    </div>
+</body>
+</html>
